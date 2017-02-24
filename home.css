@@ -1,0 +1,26 @@
+.back{
+	background-color:black;
+}
+.top{
+	color:blue;
+	font-familt:arial;
+}
+.cleanliness{
+	font-size:20px;
+}
+#image{
+	overflow-y:hidden;
+	height:500px;
+	width:100%;
+}
+.item img{
+	position:relative;
+	width:100%;
+	height:100%;
+}
+#slidebar{
+	padding:0;
+}
+.footbar{
+	margin:1px 1px 1px 1px;
+}

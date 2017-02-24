@@ -1,0 +1,31 @@
+ td {
+	padding :10px 10px;
+	border: 1px solid black;
+	text-align:center;
+	}
+	table{
+		border: 2px solid black;
+	}
+	
+	th{
+			padding :20px 20px;
+			text-align:center;
+			margin:5px,5px,5px,5px;
+			border: 2px solid black;
+	}
+	#drop{
+		display: inline-block;
+		
+	}
+	input[type=text], select {
+    width: 50%;
+    padding: 10px 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    box-sizing: border-box;
+}
+.row{
+	margin-left:300px;
+}
